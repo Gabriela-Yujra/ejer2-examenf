@@ -1,0 +1,46 @@
+.contenido {
+    position: absolute;
+    width: 405px;
+    height: 330px;
+    left: 512px;
+    top: 306px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.parrafo1 p {
+    position: absolute;
+    left: 125px;
+    top: 60px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 62px;
+    color: #000000;
+}
+
+.parrafo2 p {
+    position: absolute;
+    left: 155px;
+    top: 99px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 55px;
+    color: #000000;
+}
+
+.parrafo3 p {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 31px;
+    text-align: center;
+    color: #000000;
+}

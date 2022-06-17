@@ -1,0 +1,17 @@
+.perfil-top {
+    position: absolute;
+    width: 175px;
+    height: 175px;
+    left: 630px;
+    top: 220px;
+    background: #F1EAEA;
+    border-radius: 100px;
+}
+
+.perfil-top img {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 8px;
+    top: 8px;
+}
